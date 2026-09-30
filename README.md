@@ -122,7 +122,7 @@ The **dataset** is provided for research and reproducibility purposes. If you pl
 ## Contact
 
 - S. Manjunath — manjunath.shantharamu@gmail.com
-- P. B. Mallikarjuna — pbmalli@yahoo.com
+- P. B. Mallikarjuna — pbmalli2020@gmail.com
 
 ## Acknowledgements
 
