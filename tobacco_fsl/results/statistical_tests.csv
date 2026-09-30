@@ -1,0 +1,16 @@
+comparison,k_shot,p_value,statistic,significant,cohens_d
+transfer_learning vs protonet,5,0.048828125,8.0,True,-0.532222331514042
+transfer_learning vs metric_protonet,5,0.013671875,4.0,True,-0.6049942193216953
+protonet vs metric_protonet,5,0.421875,15.0,False,-0.13694452413060082
+transfer_learning vs protonet,10,0.416015625,19.0,False,0.39119138615710924
+transfer_learning vs metric_protonet,10,0.10546875,11.0,False,-0.6549881193534824
+protonet vs metric_protonet,10,0.02734375,6.0,True,-1.2524491129160829
+transfer_learning vs protonet,15,0.0078125,0.0,True,0.7716964054926078
+transfer_learning vs metric_protonet,15,0.00390625,1.0,True,-1.1230194513207052
+protonet vs metric_protonet,15,0.001953125,0.0,True,-2.3053797737142294
+transfer_learning vs protonet,20,0.009765625,3.0,True,1.6110639349851728
+transfer_learning vs metric_protonet,20,0.001953125,0.0,True,-0.715277323067782
+protonet vs metric_protonet,20,0.001953125,0.0,True,-3.7938231899719876
+transfer_learning vs protonet,30,0.001953125,0.0,True,3.1366477155483867
+transfer_learning vs metric_protonet,30,0.49609375,16.0,False,-0.3813553561473718
+protonet vs metric_protonet,30,0.001953125,0.0,True,-4.339224073546678
